@@ -141,7 +141,7 @@
 	width: 60%;
 	height: 250px;
 	margin: 0 auto;
-	background-color: #fff;
+
 }
 .lg1{	
 	width: 60%;
@@ -150,8 +150,8 @@
 	color: #404040FF;
     letter-spacing:2px;
     position:relative;
-    left:  200px;
-    top: -80px;
+    left:  280px;
+    top: -50px;
     margin: 0 auto;
 }
 .lg2{
@@ -161,8 +161,8 @@
 	color: #404040FF;
     letter-spacing:1px;
     position:relative;
-    left: 200px;
-    top: -90px;
+    left: 280px;
+    top: -60px;
 }
 .lg3{
 	width: 60%;
@@ -171,8 +171,8 @@
 	color: #404040FF;
 	letter-spacing:2px;
 	position:relative;
-	left: 200px;
-	top: -80px;
+	left: 280px;
+	top: -50px;
 }
 .title2 {
 	width: 200px;
@@ -411,7 +411,7 @@
 }
 .title4_1 {
 	width: 320px;
-	height: 50px;
+	height: 80px;
 	font-size: 30px;
 	line-height:30px;
 }
@@ -420,12 +420,12 @@
 	height: 50px;
 	position: relative;
 	font-size:35px;
-	top:50px;	
+	top:80px;	
 	letter-spacing: 25px 10px;
 	color: #404040FF;
 }
 .down .title4_1 p {
-	width: 230px;
+	width: 250px;
 	height: 50px;
 	color: #FFFFFFFF;
 	margin: 0 auto;
@@ -446,7 +446,7 @@
 	height: 50px;
 	position: relative;	
 	font-size:32px; 
-	top:50px;
+	top:80px;
 	left:-15px;
 }
 .down .title4_2 p {
